@@ -1,7 +1,7 @@
 # meta-hlp
 literature about meta learning for human language processing
-[Anand, et al., arXiv’19] Prashant Anand, Ajeet Kumar Singh, Siddharth Srivastava, Brejesh Lall, Few Shot Speaker Recognition using Deep Neural Networks, arXiv, 2019 
-[Bansal, et al., arXiv’19] Trapit Bansal, Rishikesh Jha, Andrew McCallum, Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks, arXiv, 2019 
+*[Anand, et al., arXiv’19] Prashant Anand, Ajeet Kumar Singh, Siddharth Srivastava, Brejesh Lall, Few Shot Speaker Recognition using Deep Neural Networks, arXiv, 2019 
+*[Bansal, et al., arXiv’19] Trapit Bansal, Rishikesh Jha, Andrew McCallum, Learning to Few-Shot Learn Across Diverse Natural Language Classification Tasks, arXiv, 2019 
 [Bose, et al., arXiv’19] Avishek Joey Bose, Ankit Jain, Piero Molino, William L. Hamilton, Meta-Graph: Few shot Link Prediction via Meta Learning, arXiv, 2019 
 [Chen, et al., arXiv’18] Yangbin Chen, Tom Ko, Lifeng Shang, Xiao Chen, Xin Jiang, Qing Li, An Investigation of Few-Shot Learning in Spoken Term Classification, arXiv, 2018 
 [Chen, et al., ICLR’19] Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, Quan Wang, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, Sample Efficient Adaptive Text-to-Speech, ICLR, 2019
