@@ -52,8 +52,8 @@
 * [Xiong, et al., EMNLP’18] Wenhan Xiong, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang, One-Shot Relational Learning for Knowledge Graphs, EMNLP 2018 
 * [Ye, et al., ACL’19] Zhi-Xiu Ye, Zhen-Hua Ling, Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification, ACL 2019 
 * [Yu, et al., ACL’18] Mo Yu, Xiaoxiao Guo, Jinfeng Yi, Shiyu Chang, Saloni Potdar, Yu Cheng, Gerald Tesauro, Haoyu Wang, Bowen Zhou, Diverse Few-Shot Text Classification with Multiple Metrics, ACL 2018 
-[Zhang, et al., INTERSPEECH’19] Shilei Zhang, Yong Qin, Kewei Sun, Yonghua Lin, Few-Shot Audio Classification with Attentional Graph Neural Networks, INTERSPEECH 2019 
-[Zhao, EMNLP’19] Zhenjie Zhao, Xiaojuan Ma, Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach, EMNLP 2019  
+* [Zhang, et al., INTERSPEECH’19] Shilei Zhang, Yong Qin, Kewei Sun, Yonghua Lin, Few-Shot Audio Classification with Attentional Graph Neural Networks, INTERSPEECH 2019 
+* [Zhao, EMNLP’19] Zhenjie Zhao, Xiaojuan Ma, Text Emotion Distribution Learning from Small Sample: A Meta-Learning Approach, EMNLP 2019  
 
 
 
